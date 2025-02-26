@@ -1,0 +1,41 @@
+# SBT files
+.target/
+.idea/
+*.iml
+
+# IntelliJ IDEA specific files
+*.iws
+*.ipr
+.idea/
+
+# Scala files
+*.class
+*.log
+*.sbt
+
+# Generated directories
+lib/
+project/target/
+project/project/
+
+# Eclipse files
+.settings/
+.project
+.classpath
+
+# Mac OS X specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+
+# Java specific files
+*.jar
+*.war
+*.ear
+*.javadoc
+*.jre
+
+# JetBrains IDE files
+.idea/
