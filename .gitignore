@@ -39,3 +39,4 @@ ehthumbs.db
 
 # JetBrains IDE files
 .idea/
+target/
